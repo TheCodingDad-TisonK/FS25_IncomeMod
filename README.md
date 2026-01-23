@@ -26,24 +26,6 @@ Income Mod is a simple, balanced script mod that gives your farm **automatic pas
 
 ---
 
-## 🛠️ Requirements
-
-- **Developer Mode Enabled** — Needed to open the console and configure settings.  
-  To enable:  
-  - Open your FS25 install folder  
-  - Find **game.xml**  
-  - Set `<development><controls>` to `"true"` in the file. 
-
----
-
-## 📝 Usage
-
-Once installed and with developer mode active:
-- Open the console (usually `~` or `F1`)
-- Use commands or access the mod settings in the pause menu (if supported by the version). 
-
----
-
 ## 📜 Changelog
 
 ### **V1.1.0.0**
