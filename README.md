@@ -1,6 +1,7 @@
 # Income Mod for Farming Simulator 25
 
 Income Mod is a simple, balanced script mod that gives your farm **automatic passive income** in *Farming Simulator 25* (FS25). Instead of relying only on missions or selling goods, this mod rewards you with regular earnings based on your settings. 
+Original mod page: https://www.kingmods.net/en/fs25/mods/74020/income-mod
 
 ---
 
